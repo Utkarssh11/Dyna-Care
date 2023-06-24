@@ -33,7 +33,7 @@ The app checks if you are using earphones for longer than 60 minutes and reminds
 
 When a user visits the app for the first time, initial information and instructions are displayed to the user to make them familiar with the app. This app doesn’t require a login or signup.
 
-![Onboarding](https://github.com/Utkarssh11/Dyna-Care/blob/397da0cb32b688bd27c91d9b088bc692f551674f/Screenshot%20(379).png?raw=true)
+![Onboarding](https://github.com/Utkarssh11/Dyna-Care/blob/main/Screenshot%20(379).png?raw=true)
 
 
 ### Posture detection initial setup 🧍‍♂️
