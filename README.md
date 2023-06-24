@@ -64,6 +64,10 @@ Dyna Care will perform an analysis of your habits and visualize them through dif
 - [TensorFlow JS](https://www.tensorflow.org/js)
 - [Chart JS](https://www.chartjs.org/)
 
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+ 
 ## Contact 📧
 
 For any inquiries or suggestions, please contact us at [Utkarsh Patidar's LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
