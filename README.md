@@ -1,4 +1,4 @@
-# Dyna-Care
+# Dyna-Care 🩺
 
 One stop solution to take care of your health as developers 👩‍💻
 
